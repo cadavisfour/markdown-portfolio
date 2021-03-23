@@ -1,1 +1,1 @@
-Replace this with a link to your a GitHub or social media profile.
+[Explanation of included profile image](https://en.wikipedia.org/wiki/Nyan_Cat)
